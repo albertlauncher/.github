@@ -1,0 +1,46 @@
+name: App bug
+description: Report a bug of the application or interface library.
+assignees: ManuelSchneid3r
+labels: ["C: App", "Needs triage"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to file this bug. 
+      Please make sure this issue does not exist yet. 
+- type: input
+  attributes:
+    label: Package source
+    description: Where did you get the app from?
+    placeholder: Official packages, built from source, AUR or such
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: App report
+    description: |
+      Paste the output of `albert report` here
+    render: markdown
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Current Behavior
+    description: A concise description of what you're experiencing.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: A concise description of what you expected to happen.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Anything else?
+    description: |
+      Links? References? `albert -d` or `journalctl -t albert.desktop` output?
+      Anything that will give more context about the issue you are encountering!
+  validations:
+    required: false
+    
