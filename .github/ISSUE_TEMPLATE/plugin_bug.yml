@@ -18,8 +18,9 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: App report
-    description: Paste the output of `albert report` here
+    label: App logs
+    description: 
+    description: Run Albert from terminal using `QT_LOGGING_RULES='albert*=true' albert --platform xcb`, reproduce the issue and post the output here.
     render: markdown
   validations:
     required: true
@@ -38,9 +39,7 @@ body:
 - type: textarea
   attributes:
     label: Anything else?
-    description: |
-      Links? References? `albert -d` or `journalctl -t albert.desktop` output?
-      Anything that will give more context about the issue you are encountering!
+    description: Anything that will give more context about the issue you are encountering!
   validations:
     required: false
     
