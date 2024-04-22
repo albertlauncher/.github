@@ -17,9 +17,9 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: App report
+    label: App logs
     description: |
-      Paste the output of `albert report` here
+      Run Albert from terminal using `QT_LOGGING_RULES='albert*=true' albert --platform xcb`, reproduce the issue and post the output here.
     render: markdown
   validations:
     required: true
