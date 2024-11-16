@@ -14,9 +14,7 @@ body:
 - type: textarea
   attributes:
     label: Contents of the desktop file
-    placeholder: |
-      [Desktop Entry]
-      […]
+    placeholder: "[Desktop Entry] …"
   validations:
     required: true
 - type: textarea
