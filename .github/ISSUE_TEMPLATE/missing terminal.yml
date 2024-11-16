@@ -1,5 +1,6 @@
 name: Missing terminal
 description: Report a missing terminal.
+title: "Missing terminal <name>"
 assignees: ManuelSchneid3r
 labels: ["C: App", "Needs triage"]
 body:
