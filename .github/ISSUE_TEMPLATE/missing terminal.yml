@@ -7,9 +7,9 @@ body:
 - type: textarea
   attributes:
     label: App report
-    description: Run the command below and post its output here.
     render: markdown
-    placeholder: |
+    description: |
+      Run the command below and post its output here.
       # Linux
       albert --report
       # macOS
