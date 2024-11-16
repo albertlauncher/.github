@@ -8,13 +8,6 @@ body:
     value: |
       Thanks for taking the time to file this bug. 
       Please make sure this issue does not exist yet. 
-- type: input
-  attributes:
-    label: Package source
-    description: Where did you get the app from?
-    placeholder: Official packages, built from source, AUR or such
-  validations:
-    required: true
 - type: dropdown
   id: Source
   attributes:
@@ -26,6 +19,18 @@ body:
       - AUR
       - From source
       - Other (leave a note)
+    default: 0
+  validations:
+    required: true
+- type: dropdown
+  id: Component
+  attributes:
+    label: Component
+    description: Which component is affected?
+    options:
+      - App
+      - Plugin
+      - CI/CD
     default: 0
   validations:
     required: true
