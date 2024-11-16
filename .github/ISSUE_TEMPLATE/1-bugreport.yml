@@ -1,7 +1,7 @@
-name: App bug
-description: Report a bug of the application or interface library.
+name: Bug report
+description: Report a bug.
 assignees: ManuelSchneid3r
-labels: ["C: App", "Needs triage"]
+labels: ["Needs triage"]
 body:
 - type: markdown
   attributes:
