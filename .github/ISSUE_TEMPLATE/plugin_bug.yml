@@ -19,9 +19,13 @@ body:
 - type: textarea
   attributes:
     label: App logs
-    description: 
-    description: Run Albert from terminal using `QT_LOGGING_RULES='albert*=true' albert --platform xcb`, reproduce the issue and post the output here.
+    description: Run Albert from terminal using the command below, reproduce the issue and post the output here.
     render: markdown
+    placeholder: |
+      # Linux
+      QT_LOGGING_RULES='albert*=true' albert --platform xcb
+      # macOS
+      QT_LOGGING_RULES='albert*=true' /Applications/Albert.app/Contents/MacOS/albert
   validations:
     required: true
 - type: textarea
