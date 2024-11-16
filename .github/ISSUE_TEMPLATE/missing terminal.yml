@@ -16,7 +16,7 @@ body:
     label: Contents of the desktop file
     placeholder: |
       [Desktop Entry]
-      Name=Firefox
+      […]
   validations:
     required: true
 - type: textarea
