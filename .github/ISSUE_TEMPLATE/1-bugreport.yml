@@ -3,11 +3,6 @@ description: Report a bug.
 assignees: ManuelSchneid3r
 labels: ["Needs triage"]
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to file this bug. 
-      Please make sure this issue does not exist yet. 
 - type: dropdown
   id: Source
   attributes:
