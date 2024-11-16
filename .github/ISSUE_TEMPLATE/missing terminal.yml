@@ -4,18 +4,6 @@ title: "Missing terminal <name>"
 assignees: ManuelSchneid3r
 labels: ["C: App", "Needs triage"]
 body:
-- type: textarea
-  attributes:
-    label: App report
-    render: markdown
-    description: |
-      Run the command below and post its output here.
-      # Linux
-      albert --report
-      # macOS
-      /Applications/Albert.app/Contents/MacOS/albert --report
-  validations:
-    required: true
 - type: input
   attributes:
     label: Absolute path to the desktop file
@@ -26,5 +14,16 @@ body:
 - type: textarea
   attributes:
     label: Contents of the desktop file
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: App report
+    render: markdown
+    description: |
+      Run the command below and post its output.
+      **Linux** `albert --report`
+      **macOS** `/Applications/Albert.app/Contents/MacOS/albert --report`
+  placeholder: "Post the report here"
   validations:
     required: true
