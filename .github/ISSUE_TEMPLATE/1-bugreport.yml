@@ -15,6 +15,20 @@ body:
     placeholder: Official packages, built from source, AUR or such
   validations:
     required: true
+- type: dropdown
+  id: Source
+  attributes:
+    label: Source
+    description: Where did you get the app from?
+    options:
+      - Open Build Service 
+      - Homebrew
+      - AUR
+      - From source
+      - Other (leave a note)
+    default: 0
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: App logs
