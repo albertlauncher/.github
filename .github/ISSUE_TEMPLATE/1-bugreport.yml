@@ -37,30 +37,32 @@ body:
 - type: textarea
   attributes:
     label: App logs
-    description: Run Albert from terminal using the command below, reproduce the issue and post the output here.
-    render: markdown
-    placeholder: |
-      # Linux
-      QT_LOGGING_RULES='albert*=true' albert --platform xcb
-      # macOS
-      QT_LOGGING_RULES='albert*=true' /Applications/Albert.app/Contents/MacOS/albert
+    render: Text
+    description: |
+      Run the command below and post its output.
+      **Linux** `QT_LOGGING_RULES='albert*=true' albert --platform xcb`
+      **macOS** `QT_LOGGING_RULES='albert*=true' /Applications/Albert.app/Contents/MacOS/albert`
+    placeholder: "Post the logs here"
   validations:
     required: true
 - type: textarea
   attributes:
     label: Current Behavior
+    render: Markdown
     description: A concise description of what you're experiencing.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Expected Behavior
+    render: Markdown
     description: A concise description of what you expected to happen.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Anything else?
+    render: Markdown
     description: Anything that will give more context about the issue you are encountering!
   validations:
     required: false
