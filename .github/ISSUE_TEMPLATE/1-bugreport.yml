@@ -17,7 +17,7 @@ body:
       - Open Build Service 
       - Homebrew
       - AUR
-      - From source
+      - Built from source
       - Other (leave a note)
     default: 0
   validations:
