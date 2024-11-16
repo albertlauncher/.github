@@ -12,7 +12,7 @@ body:
   id: Source
   attributes:
     label: Source
-    description: Where did you get the app from?
+    description: Where did you get the build from?
     options:
       - Open Build Service 
       - Homebrew
