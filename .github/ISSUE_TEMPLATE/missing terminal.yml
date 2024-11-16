@@ -14,13 +14,14 @@ body:
 - type: textarea
   attributes:
     label: Contents of the desktop file
+    render: INI
     placeholder: "[Desktop Entry] …"
   validations:
     required: true
 - type: textarea
   attributes:
     label: App report
-    render: markdown
+    render: Text
     description: |
       Run the command below and post its output.
       **Linux** `albert --report`
