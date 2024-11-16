@@ -17,18 +17,6 @@ body:
     default: 0
   validations:
     required: true
-- type: dropdown
-  id: Component
-  attributes:
-    label: Component
-    description: Which component is affected?
-    options:
-      - App
-      - Plugin
-      - CI/CD
-    default: 0
-  validations:
-    required: true
 - type: textarea
   attributes:
     label: App logs
