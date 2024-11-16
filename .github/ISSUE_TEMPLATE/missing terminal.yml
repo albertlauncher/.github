@@ -24,6 +24,6 @@ body:
       Run the command below and post its output.
       **Linux** `albert --report`
       **macOS** `/Applications/Albert.app/Contents/MacOS/albert --report`
-  placeholder: "Post the report here"
+    placeholder: "Post the report here"
   validations:
     required: true
