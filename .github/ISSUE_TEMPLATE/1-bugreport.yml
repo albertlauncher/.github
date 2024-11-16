@@ -23,7 +23,7 @@ body:
     render: Text
     description: |
       Run the command below and post its output.
-      **Linux** `QT_LOGGING_RULES='albert*=true' albert --platform xcb`
+      **Linux** `QT_LOGGING_RULES='albert*=true' albert`
       **macOS** `QT_LOGGING_RULES='albert*=true' /Applications/Albert.app/Contents/MacOS/albert`
     placeholder: "Post the logs here"
   validations:
