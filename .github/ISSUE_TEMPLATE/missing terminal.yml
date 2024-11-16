@@ -4,11 +4,6 @@ title: "Missing terminal <name>"
 assignees: ManuelSchneid3r
 labels: ["C: App", "Needs triage"]
 body:
-- type: markdown
-  attributes:
-    value: |
-      Thanks for taking the time to file this bug. 
-      Please make sure this issue does not exist yet. 
 - type: textarea
   attributes:
     label: App report
@@ -16,9 +11,9 @@ body:
     render: markdown
     placeholder: |
       # Linux
-      QT_LOGGING_RULES='albert*=true' albert --platform xcb
+      albert --report
       # macOS
-      QT_LOGGING_RULES='albert*=true' /Applications/Albert.app/Contents/MacOS/albert
+      /Applications/Albert.app/Contents/MacOS/albert --report
   validations:
     required: true
 - type: input
