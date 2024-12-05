@@ -31,21 +31,18 @@ body:
 - type: textarea
   attributes:
     label: Current Behavior
-    render: Markdown
     description: A concise description of what you're experiencing.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Expected Behavior
-    render: Markdown
     description: A concise description of what you expected to happen.
   validations:
     required: true
 - type: textarea
   attributes:
     label: Anything else?
-    render: Markdown
     description: Anything that will give more context about the issue you are encountering!
   validations:
     required: false
