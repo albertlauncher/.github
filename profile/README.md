@@ -14,6 +14,12 @@ Note that these plugins have not been peer-reviewed.
 - [albertlauncher/albert-plugin-python-firefox](https://github.com/albertlauncher/albert-plugin-python-firefox) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-firefox)
 - [albertlauncher/albert-plugin-python-pwgen](https://github.com/albertlauncher/albert-plugin-python-pwgen) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-pwgen)
 - [albertlauncher/albert-plugin-python-zed-workspaces](https://github.com/albertlauncher/albert-plugin-python-zed-workspaces) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-zed-workspaces)
+- [Bierchermuesli/albert-macaddr](https://github.com/Bierchermuesli/albert-macaddr) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-macaddr) MAC/Hardware Vendor Lookup / formater
+- [Bierchermuesli/albert-subnetcalc](https://github.com/Bierchermuesli/albert-subnetcalc) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-subnetcalc) IPv6/IPv6 Subnet Calculator
+- [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
+- [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
+- [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
+
 
 ## Old/Unmaintained offcial plugins
 
