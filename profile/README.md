@@ -21,7 +21,7 @@ Note that these plugins have not been peer-reviewed.
 - [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
 
 
-## Old/Unmaintained offcial plugins
+## Old/Unmaintained official plugins
 
 Outdated plugins that could serve as starting point for development.
 
