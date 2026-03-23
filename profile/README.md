@@ -19,6 +19,8 @@ Note that these plugins have not been peer-reviewed.
 - [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
 - [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
 - [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
+- [ffpyt/albert-python-symbol](https://github.com/ffpyt/albert-plugin-python-symbol) ![GitHub Repo stars](https://img.shields.io/github/stars/ffpyt/albert-plugin-python-symbol) Searching Unicode and ASCII characters
+- [ffpyt/albert-python-recent-files](https://github.com/ffpyt/albert-plugin-python-recent-files) ![GitHub Repo stars](https://img.shields.io/github/stars/ffpyt/albert-plugin-python-recent-files) Search your recent file and folder history
 
 
 ## Old/Unmaintained official plugins
