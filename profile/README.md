@@ -19,6 +19,7 @@ Note that these plugins have not been peer-reviewed.
 - [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
 - [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
 - [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
+- [mohamed-sallam/quicknote-albert-plugin](https://github.com/mohamed-sallam/quicknote-albert-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/mohamed-sallam/quicknote-albert-plugin) Quick note taking with contexts and Obsidian compatibility
 
 
 ## Old/Unmaintained offcial plugins
