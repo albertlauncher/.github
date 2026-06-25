@@ -19,7 +19,7 @@ Note that these plugins have not been peer-reviewed.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) [ripe](https://github.com/Bierchermuesli/albert-ripe)  Whois lookups with Ripe
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) [deepl](https://github.com/Bierchermuesli/albert-deepl)  deepl translation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mohamed-sallam/quicknote-albert-plugin) [quicknote](https://github.com/mohamed-sallam/quicknote-albert-plugin) Quick note taking with contexts and Obsidian compatibility
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hyiltiz/albert-plugin-python-recoll) [recoll](https://github.com/hyiltiz/albert-plugin-python-recoll) Search files using Recoll full-text search via recollq
 
 ## Old/Unmaintained offcial plugins
 
