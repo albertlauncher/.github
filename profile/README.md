@@ -16,8 +16,8 @@ Note that these plugins have not been peer-reviewed.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-macaddr) [macaddr](https://github.com/Bierchermuesli/albert-macaddr) MAC/Hardware Vendor Lookup / formater
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-subnetcalc) [subnetcalc](https://github.com/Bierchermuesli/albert-subnetcalc) IPv6/IPv6 Subnet Calculator
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) [dig](https://github.com/Bierchermuesli/albert-dig) dig like DNS Lookup utility
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe)[ripe](https://github.com/Bierchermuesli/albert-ripe)  Whois lookups with Ripe
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl)[deepl](https://github.com/Bierchermuesli/albert-deepl)  deepl translation
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) [ripe](https://github.com/Bierchermuesli/albert-ripe)  Whois lookups with Ripe
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) [deepl](https://github.com/Bierchermuesli/albert-deepl)  deepl translation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mohamed-sallam/quicknote-albert-plugin) [quicknote](https://github.com/mohamed-sallam/quicknote-albert-plugin) Quick note taking with contexts and Obsidian compatibility
 
 
