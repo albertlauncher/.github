@@ -6,20 +6,19 @@ You can add your plugin contributions here.
 Please test and vote on your favorites.
 Note that these plugins have not been peer-reviewed.
 
-- [prehensile/albert-plugin-macos-browser-tabs-python](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python)
-- [Pete-Hamlin/albert-plugin-python-obsidian](https://github.com/Pete-Hamlin/albert-plugin-python-obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-obsidian)
-- [Pete-Hamlin/albert-plugin-python-paperless](https://github.com/Pete-Hamlin/albert-plugin-python-paperless) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-paperless)
-- [albertlauncher/albert-plugin-contacts-akonadi](https://github.com/albertlauncher/albert-plugin-contacts-akonadi) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-contacts-akonadi)
-- [albertlauncher/albert-plugin-python-dice-roll](https://github.com/albertlauncher/albert-plugin-python-dice-roll) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-dice-roll)
-- [albertlauncher/albert-plugin-python-firefox](https://github.com/albertlauncher/albert-plugin-python-firefox) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-firefox)
-- [albertlauncher/albert-plugin-python-pwgen](https://github.com/albertlauncher/albert-plugin-python-pwgen) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-pwgen)
-- [albertlauncher/albert-plugin-python-zed-workspaces](https://github.com/albertlauncher/albert-plugin-python-zed-workspaces) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-zed-workspaces)
-- [Bierchermuesli/albert-macaddr](https://github.com/Bierchermuesli/albert-macaddr) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-macaddr) MAC/Hardware Vendor Lookup / formater
-- [Bierchermuesli/albert-subnetcalc](https://github.com/Bierchermuesli/albert-subnetcalc) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-subnetcalc) IPv6/IPv6 Subnet Calculator
-- [Bierchermuesli/albert-dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
-- [Bierchermuesli/albert-ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
-- [Bierchermuesli/albert-deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
-- [mohamed-sallam/quicknote-albert-plugin](https://github.com/mohamed-sallam/quicknote-albert-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/mohamed-sallam/quicknote-albert-plugin) Quick note taking with contexts and Obsidian compatibility
+- [macos-browser-tabs](https://github.com/prehensile/albert-plugin-macos-browser-tabs-python) ![GitHub Repo stars](https://img.shields.io/github/stars/prehensile/albert-plugin-macos-browser-tabs-python)
+- [obsidian](https://github.com/Pete-Hamlin/albert-plugin-python-obsidian) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-obsidian)
+- [paperless](https://github.com/Pete-Hamlin/albert-plugin-python-paperless) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-python-paperless)
+- [contacts-akonadi](https://github.com/albertlauncher/albert-plugin-contacts-akonadi) ![GitHub Repo stars](https://img.shields.io/github/stars/Pete-Hamlin/albert-plugin-contacts-akonadi)
+- [dice-roll](https://github.com/albertlauncher/albert-plugin-python-dice-roll) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-dice-roll)
+- [pwgen](https://github.com/albertlauncher/albert-plugin-python-pwgen) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-pwgen)
+- [zed-workspaces](https://github.com/albertlauncher/albert-plugin-python-zed-workspaces) ![GitHub Repo stars](https://img.shields.io/github/stars/albertlauncher/albert-plugin-python-zed-workspaces)
+- [macaddr](https://github.com/Bierchermuesli/albert-macaddr) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-macaddr) MAC/Hardware Vendor Lookup / formater
+- [subnetcalc](https://github.com/Bierchermuesli/albert-subnetcalc) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-subnetcalc) IPv6/IPv6 Subnet Calculator
+- [dig](https://github.com/Bierchermuesli/albert-dig) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-dig) dig like DNS Lookup utility
+- [ripe](https://github.com/Bierchermuesli/albert-ripe) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-ripe) Whois lookups with Ripe
+- [deepl](https://github.com/Bierchermuesli/albert-deepl) ![GitHub Repo stars](https://img.shields.io/github/stars/Bierchermuesli/albert-deepl) deepl translation
+- [quicknote](https://github.com/mohamed-sallam/quicknote-albert-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/mohamed-sallam/quicknote-albert-plugin) Quick note taking with contexts and Obsidian compatibility
 
 
 ## Old/Unmaintained offcial plugins
